@@ -12,8 +12,4 @@ In this portfolio, I have included a collection of projects that showcase my ski
 I have also included projects involving Python and SQL, where I work with structured datasets to perform data cleaning, analysis, and basic statistical exploration. Through these projects, I demonstrate my ability to extract meaningful insights from data and integrate information from multiple sources to build a comprehensive understanding of the problem.
 
  I hope you find my portfolio to be informative and engaging, and I welcome any opportunity to discuss my qualifications further with you. 
-
- My CV is available in PDF format.
- 
- Thank you for your time, I look forward to hearing from you soon.
  
