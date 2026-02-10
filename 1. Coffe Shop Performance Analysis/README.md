@@ -42,7 +42,9 @@ Analyzed coffee shop sales data using **SQL** to identify key performance metric
 
 ## 📁 Repository Structure
 ```text
-├── Coffee Shop_Zafirah Aida Adista.sql   # SQL scripts for data analysis
-├── Coffee Shop_Zafirah Aida Adista.pbix  # Interactive Power BI Dashboard 
-├── Coffee Shop_Zafirah Aida Adista.pdf   # Full executive report
-└── README.md                             # Project documentation
+├── Visuals/
+│   └── Dashboard.png
+├── Coffee Shop Analysis.sql                    # SQL scripts for data analysis
+├── Coffee Shop Performance Dashboard.pbix      # Interactive Power BI Dashboard
+├── Executive Summary Report.pdf                # Full executive report             
+└── README.md                                   # Project documentation
