@@ -1,44 +1,51 @@
 # 🍰 Seoul Sweets: E-Commerce Funnel Optimization
-> **Data-Driven Strategy to Reduce Cart Abandonment and Drive Growth**
+> **Data-Driven Strategy to Reduce Friction and Maximize Conversion Rates**
 
 ## 📌 Project Overview
-Proyek ini bertujuan untuk mendiagnosis penyebab rendahnya konversi pada platform *e-commerce* baru milik **Seoul Sweets**, sebuah toko roti Korea populer. Melalui analisis *customer funnel*, saya mengidentifikasi titik hambatan (*bottleneck*) utama dan memberikan rekomendasi strategis berbasis data untuk meningkatkan angka penjualan.
+This project focuses on diagnosing conversion challenges for **Seoul Sweets**, a popular Korean bakery expanding into the e-commerce space. By analyzing customer journey data, I identified critical bottlenecks in the sales funnel and proposed strategic, data-backed solutions to minimize cart abandonment and drive revenue growth.
 
 ---
 
-## 🚀 Key Business Impact & Findings
-*   **Identifikasi Bottleneck Kritis:** Menemukan adanya **40% user drop-off** yang terjadi tepat pada tahap antara *Delivery Info* dan *Confirm Payment*.
-*   **Optimasi Funnel:** Mengidentifikasi bahwa meskipun minat beli tinggi (**90% konversi ke Add to Cart**), terjadi kegagalan di tahap akhir akibat kurangnya transparansi biaya.
-*   **Strategi Actionable:** Membedakan *actionable metrics* (Tingkat Drop-off) dari *vanity metrics* (Total Traffic) untuk memastikan fokus perusahaan pada pertumbuhan nyata.
+## 🚀 Key Insights & Business Impact
+*   **Identified Critical Bottleneck:** Pinpointed a significant **40% user drop-off** occurring between the 'Delivery Info' and 'Confirm Payment' stages.
+*   **Conversion Optimization:** Analyzed the high **90% "Add to Cart" rate**, highlighting strong product appeal but a major failure in the final transaction phase.
+*   **Strategic Metric Analysis:** Differentiated between **Actionable Metrics** (Drop-off rates) and **Vanity Metrics** (Total Traffic) to focus on data that drives actual business growth.
 
 ---
 
-## 🛠️ Skills & Tools Used
-*   **Data Analysis:** Menganalisis perilaku pengguna di setiap tahapan *sales funnel*.
-*   **Business Problem Solving:** Mengubah masalah bisnis yang abstrak menjadi hipotesis yang dapat diuji (Masalah Transparansi Biaya & Kompleksitas Formulir).
-*   **Conversion Rate Optimization (CRO):** Memberikan solusi desain proses *checkout* dan rencana *A/B testing* untuk efisiensi.
+## 🛠️ Skills & Expertise Demonstrated
+*   **Data-Driven Decision Making:** Leveraging funnel data to provide actionable business recommendations.
+*   **Customer Experience (CX) Analysis:** Identifying "friction points" in the checkout process such as unexpected costs and complex forms.
+*   **Business Problem Solving:** Translating abstract business problems into structured analytical frameworks.
+*   **Strategic Planning:** Proposing high-impact solutions like A/B testing, cost transparency, and streamlined checkout flows.
 *   **Tools:** Spreadsheet, Google Slides.
 
 ---
 
 ## 📊 Analytical Approach
-1.  **Funnel Mapping:** Memetakan perjalanan pelanggan dari *Product View* hingga *Payment Confirmation*.
-2.  **Bottleneck Identification:** Menemukan bahwa hambatan terbesar berada pada proses entri data pengiriman.
-3.  **Root Cause Analysis:** Mengidentifikasi 3 penyebab utama: Biaya pengiriman tak terduga, formulir pendaftaran yang rumit, dan kurangnya opsi pembayaran.
-4.  **Strategic Recommendations:** Mengusulkan *Guest Checkout* dan transparansi biaya di halaman awal.
+1.  **Funnel Mapping:** Visualizing the user journey from Product View to final Transaction.
+2.  **Bottleneck Diagnosis:** Identifying exactly where and why users were abandoning their carts.
+3.  **Root Cause Analysis:** Investigating barriers such as lack of cost transparency, complex mandatory sign-ups, and limited payment options.
+4.  **Strategic Solutioning:** Formulating a 2-step intervention (Immediate Fix & Long-term Action Plan).
 
 ---
 
-## 💡 Strategic Recommendations
-*   **Immediate Fix:** Menampilkan total biaya (termasuk ongkir) langsung di halaman *Product View* atau *Add to Cart*.
-*   **Action Plan:** Implementasi *Guest Checkout* dan penyederhanaan formulir menjadi *one-page checkout* untuk meminimalkan entri data.
-*   **Monitoring:** Menggunakan *Confirm Payment Drop-off Rate* sebagai KPI utama kesuksesan perbaikan sistem.
+## 💡 Proposed Solutions
+*   **Enhance Cost Transparency:** Displaying full shipping costs upfront on the 'Add to Cart' page to manage customer expectations.
+*   **Streamline Checkout Flow:** Implementing **Guest Checkout** and a one-page checkout system to minimize data entry friction.
+*   **Performance Monitoring:** Establishing the 'Confirm Payment Drop-off Rate' as the primary KPI to measure improvement success.
 
 ---
 
 ## 📂 Project Structure
-*   `Seol Sweets Performance.pdf` : File presentasi strategi.
-*   `Dataset & Analysis.xlsx/` :Raw data dan hasil analisis.
+*   `presentation/` : Strategic Analysis Deck (PDF).
+*   `Dataset & Analysis/` : Raw Data & Analysis.
 
 ---
+## 📫 Let's Connect!
+*   **LinkedIn:** [Your LinkedIn Profile Link]
+*   **Email:** [Your Email Address]
+*   **Portfolio:** [Your Portfolio Link]
 
+---
+*Developed by [Your Name] | Data-Driven Growth Strategy for Seol Sweets.*
