@@ -17,7 +17,7 @@ Proyek ini bertujuan untuk mendiagnosis penyebab rendahnya konversi pada platfor
 *   **Data Analysis:** Menganalisis perilaku pengguna di setiap tahapan *sales funnel*.
 *   **Business Problem Solving:** Mengubah masalah bisnis yang abstrak menjadi hipotesis yang dapat diuji (Masalah Transparansi Biaya & Kompleksitas Formulir).
 *   **Conversion Rate Optimization (CRO):** Memberikan solusi desain proses *checkout* dan rencana *A/B testing* untuk efisiensi.
-*   **Tools:** [Sebutkan Tool Anda, misal: Microsoft Excel / SQL / Python / Tableau / Canva].
+*   **Tools:** Spreadsheet, Google Slides.
 
 ---
 
@@ -37,7 +37,7 @@ Proyek ini bertujuan untuk mendiagnosis penyebab rendahnya konversi pada platfor
 ---
 
 ## 📂 Project Structure
-*   `Seol Sweets Performance.pdf` : File presentasi strategi (PDF).
+*   `Seol Sweets Performance.pdf` : File presentasi strategi.
 *   `Dataset & Analysis.xlsx/` :Raw data dan hasil analisis.
 
 ---
