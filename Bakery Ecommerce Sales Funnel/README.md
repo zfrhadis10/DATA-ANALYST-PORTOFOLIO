@@ -38,7 +38,7 @@ This project focuses on diagnosing conversion challenges for **Seoul Sweets**, a
 ---
 
 ## 📂 Project Structure
-*   `presentation/` : Strategic Analysis Deck (PDF).
+*   `Seol Sweets Performance/` : Strategic Analysis Deck (PDF).
 *   `Dataset & Analysis/` : Raw Data & Analysis.
 
 ---
