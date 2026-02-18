@@ -42,10 +42,3 @@ This project focuses on diagnosing conversion challenges for **Seoul Sweets**, a
 *   `Dataset & Analysis/` : Raw Data & Analysis.
 
 ---
-## 📫 Let's Connect!
-*   **LinkedIn:** [Your LinkedIn Profile Link]
-*   **Email:** [Your Email Address]
-*   **Portfolio:** [Your Portfolio Link]
-
----
-*Developed by [Your Name] | Data-Driven Growth Strategy for Seol Sweets.*
