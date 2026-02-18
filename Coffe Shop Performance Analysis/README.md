@@ -1,7 +1,7 @@
 # ☕ Coffee Shop Performance Analysis
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zfrhadis10/DATA-ANALYST-PORTOFOLIO/main/1.%20Coffe%20Shop%20Performance%20Analysis/Visuals/Dashboard.png" width="50%" alt="Power BI Dashboard Preview">
+  <img src="https://raw.githubusercontent.com/zfrhadis10/DATA-ANALYST-PORTOFOLIO/main/%20Coffe%20Shop%20Performance%20Analysis/Visuals/Dashboard.png" width="50%" alt="Power BI Dashboard Preview">
 </div>
 
   [![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
