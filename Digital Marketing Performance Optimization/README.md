@@ -14,7 +14,7 @@ To ensure a robust and scalable analysis, the following tools and libraries were
 * **Data Manipulation:**
     * **Pandas:** For cleaning, transforming, and structured analysis of marketing datasets.
     * **NumPy:** For high-performance mathematical and array operations.
-* **Data Visualization:** * **Matplotlib:** For foundational plotting, statistical data visualization, and trend analysis.
+* **Data Visualization:** **Matplotlib:** For foundational plotting, statistical data visualization, and trend analysis.
 * **Development Environment:** * **Jupyter Notebook:** For interactive coding, documentation, and presenting findings.
 
 ---
@@ -23,7 +23,7 @@ To ensure a robust and scalable analysis, the following tools and libraries were
 I structured the analysis into four key pillars to evaluate campaign health:
 
 ### 1. Engagement Analysis
-* **KPIs:** **CTR (Click-Through Rate)** and **Video View Rates**.
+* **KPIs:** **CTR (Click-Through Rate)**.
 * **Focus:** Measuring creative resonance and audience engagement. This analysis helps determine which visual assets successfully capture market attention.
 
 ### 2. Conversion Tracking
