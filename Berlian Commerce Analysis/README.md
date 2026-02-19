@@ -12,7 +12,7 @@ The analysis leverages **Advanced SQL** to transform raw transactional data into
 * **Core SQL Skills Demonstrated:**
     * **Complex Multi-Table Joins:** Connecting `Orders`, `Users`, `Products`, and `Order_Items`.
     * **Data Aggregation:** Transforming granular timestamps into daily, monthly, and yearly trends.
-    * **Conditional Logic (CASE/WHERE):** Isolating 'Complete' transactions from 'Cancelled' or 'Returned' status.
+    * **Conditional Logic (WHERE):** Isolating 'Complete' transactions from 'Cancelled' or 'Returned' status.
     * **Logistics SLA Analysis:** Calculating time-deltas between order milestones (Created vs. Shipped vs. Delivered).
     * **Financial Modeling:** Calculating Gross Profit and Net Revenue (10% Margin) using calculated fields.
 
