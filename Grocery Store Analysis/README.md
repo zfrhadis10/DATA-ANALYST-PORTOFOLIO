@@ -5,6 +5,9 @@ This project demonstrates an end-to-end data transformation workflow—moving fr
 
 ---
 
+## 🖥️ Dashboard Preview
+![Grocery Sales Dashboard](https://raw.githubusercontent.com/zfrhadis10/DATA-ANALYST-PORTOFOLIO/main/Grocery%20Store%20Analysis/Visuals/Dashboard%20Preview.png)
+
 ## 🛠️ Technical Proficiencies & Workflow
 This project follows a rigorous 4-day analytical lifecycle:
 
