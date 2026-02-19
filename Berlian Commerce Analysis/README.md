@@ -1,4 +1,4 @@
-# 📊 E-Commerce Business Intelligence: Investor Strategic Insights
+# 📊  Berlian E-Commerce Analysis: Investor Strategic Insights
 
 ## 🌟 Executive Summary
 This project simulates the role of a **Data Analyst** at *Berlian Commerce*, a fashion e-commerce platform. Following a major acquisition, the lead investor required a comprehensive data-driven report to evaluate business health, operational scalability, and customer lifetime value (LTV).
@@ -41,9 +41,9 @@ Conducted a deep dive into **H1 2024** logistics data for 'Complete' orders:
 ---
 
 ## 📂 Project Structure
-* `/queries`: Contains `.sql` files for each business case.
-* `/data_dictionary`: Explanation of the 4-table relational schema.
-* `/results`: Visual screenshots of the query outputs.
+* `/Berlian Commerce Analysis.sql`: Contains `.sql` files for each business case.
+* `/Dataset`: Raw data containing 4 main relational tables (Orders, Products, Users, Order_Items)
+* `/Results`: Visual screenshots of the query outputs.
 
 ---
 
