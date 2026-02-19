@@ -18,13 +18,20 @@ To ensure a robust and scalable analysis, the following tools and libraries were
 
 ---
 
-## 📊 Business Metrics & KPIs Analyzed
-I implemented custom Python functions to evaluate campaign health through four primary lenses:
-1.  **Efficiency Metrics:** Analyzing **CPC (Cost Per Click)** and **CPM (Cost Per Mille)** to identify cost-effective channels.
-2.  **Engagement Analysis:** Evaluating **CTR (Click-Through Rate)** and **Video View Rates** to measure creative effectiveness.
-3.  **Conversion Tracking:** Monitoring **Conversion Rates** and **CPA (Cost Per Acquisition)** across different platforms.
-4.  **ROI Assessment:** Calculating **ROAS (Return on Ad Spend)** to determine the ultimate profitability of ad spend.
+## 📊 Performance Metrics Framework
+I structured the analysis into four key pillars to evaluate campaign health:
 
+### 1. Engagement Analysis
+* **KPIs:** **CTR (Click-Through Rate)** and **Video View Rates**.
+* **Focus:** Measuring creative resonance and audience engagement. This analysis helps determine which visual assets successfully capture market attention.
+
+### 2. Conversion Tracking
+* **KPIs:** **Conversion Rates** and **CPA (Cost Per Acquisition)**.
+* **Focus:** Monitoring the transition from interest to action. This includes identifying bottlenecks in the conversion funnel and evaluating checkout efficiency across different platforms.
+
+### 3. ROI Assessment
+* **KPIs:** **ROAS (Return on Ad Spend)**.
+* **Focus:** Determining ultimate profitability. I analyzed the performance variance between *Traffic-based* objectives and *Sales-focused* strategies to guide high-level investment decisions.
 ---
 
 ## 🚀 Key Insights & Optimization Strategies
