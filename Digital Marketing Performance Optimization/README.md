@@ -11,9 +11,10 @@ The goal is to move beyond basic reporting and provide **actionable recommendati
 To ensure a robust and scalable analysis, the following tools and libraries were utilized:
 
 * **Programming Language:** **Python 3.x** for core data processing and automation.
-* **Data Manipulation:** * **Pandas:** For cleaning, transforming, and structured analysis of marketing datasets.
+* **Data Manipulation:**
+    * **Pandas:** For cleaning, transforming, and structured analysis of marketing datasets.
     * **NumPy:** For high-performance mathematical and array operations.
-* **Data Visualization:** * **Matplotlib & Seaborn:** For foundational plotting, statistical data visualization, and trend analysis.
+* **Data Visualization:** * **Matplotlib:** For foundational plotting, statistical data visualization, and trend analysis.
 * **Development Environment:** * **Jupyter Notebook:** For interactive coding, documentation, and presenting findings.
 
 ---
