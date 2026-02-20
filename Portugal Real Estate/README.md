@@ -51,8 +51,14 @@ Beyond the technical cleaning, this project bridges the gap between raw data and
 
 ---
 
-## 📂 Project Structure
-* `data_cleaning_Zafirah_Aida_Adista.ipynb`: Detailed Jupyter Notebook containing the cleaning logic and EDA.
-* `portugal_listinigs.csv`: The primary dataset (raw/processed).
+## 📁 Project Structure & File Descriptions
+
+| File Name | Category | Description |
+| :--- | :--- | :--- |
+| `portugal_listings_raw.csv` | **Raw Data** | Original dataset with 118,682 records before cleaning. |
+| `portugal_listings_clean.csv` | **Processed Data** | Final cleaned dataset optimized for analytics. |
+| `portugal_real_estate_cleaning_analysis.ipynb` | **Notebook** | End-to-end Python script for large-scale cleaning & EDA. |
+| `Portugal_RealEstate_MarketStrategy.pptx` | **Presentation** | Business strategy and insights for stakeholders. |
+| `README.md` | **Documentation** | Project overview, methodology, and key results. |
 
 ---
