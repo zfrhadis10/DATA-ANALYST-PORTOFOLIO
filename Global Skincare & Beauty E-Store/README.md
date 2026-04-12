@@ -153,19 +153,15 @@ p-value      : ~0.00000 (< 0.05) → Reject H₀
 
 **🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/zafirah.adista/viz/Milestone_17724314944580/Dashboard1?publish=yes)**
 
-![Dashboard Preview](https://i.imgur.com/placeholder.png)
-*(Screenshot from project presentation)*
-
 ---
 
 ## 📁 Project Structure
 
 ```
 📦 global-skincare-ecommerce-analysis
- ┣ 📓 P1M2_Zafirah_Aida.ipynb              # Main analysis notebook
- ┣ 📄 global skincare.xlsx                  # Raw dataset (from Kaggle)
- ┣ 📄 global skincare_cleaned.xlsx          # Cleaned dataset (exported from notebook)
- ┣ 📊 Presentasi_Milestone_2.pdf            # Project presentation slides
+ ┣ 📓 Ecommerce Analysis.ipynb              # Main analysis notebook
+ ┣ 📋 Business Insight.pdf           # Project presentation slides
+ ┣ 📊 Dashboard Tableau                    # Interactive Dashboard
  ┗ 📄 README.md
 ```
 
