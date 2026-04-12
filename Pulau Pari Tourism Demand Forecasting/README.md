@@ -59,7 +59,7 @@ As a data analyst at a **travel agency**, I was tasked with analyzing tourist de
 
 ```
 📦 pulau-pari-forecasting
- ┣ 📓 P1LC5_Zafrirah_Aida.ipynb     # Main analysis notebook
+ ┣ 📓 Time Series Analysis.ipynb     # Main analysis notebook
  ┣ 📄 multiTimeline.csv              # Google Trends dataset (weekly)
  ┗ 📄 README.md
 ```
