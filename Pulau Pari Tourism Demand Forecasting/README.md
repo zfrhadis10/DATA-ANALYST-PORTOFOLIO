@@ -43,15 +43,15 @@ As a data analyst at a **travel agency**, I was tasked with analyzing tourist de
 
 | Category | Tools / Techniques |
 |---|---|
-| **Data Wrangling** | `pandas` — datetime indexing, missing value check, column renaming |
+| **Data Wrangling** | `pandas` → datetime indexing, missing value check, column renaming |
 | **Time Series EDA** | Trend & seasonality visualization, pattern identification |
-| **Decomposition** | `seasonal_decompose` — Additive vs **Multiplicative model** selection with justification |
-| **Stationarity Testing** | **ADF Test (Augmented Dickey-Fuller)** — confirmed stationary data |
-| **Modeling** | `SARIMAX` — SARIMA with 52-week seasonal period |
-| **Hyperparameter Tuning** | **Grid Search** over (p, q) × (P, Q) combinations — selected by lowest AIC |
-| **Model Evaluation** | `MAE`, `MSE` — SARIMA significantly outperformed baseline ARIMA |
+| **Decomposition** | `seasonal_decompose` → Additive vs **Multiplicative model** selection with justification |
+| **Stationarity Testing** | **ADF Test (Augmented Dickey-Fuller)** → confirmed stationary data |
+| **Modeling** | `SARIMAX` → SARIMA with 52-week seasonal period |
+| **Hyperparameter Tuning** | **Grid Search** over (p, q) × (P, Q) combinations → selected by lowest AIC |
+| **Model Evaluation** | `MAE`, `MSE` → SARIMA significantly outperformed baseline ARIMA |
 | **Forecasting** | 52-step ahead forecast preserving seasonal structure |
-| **Visualization** | `matplotlib` — actual vs fitted vs forecast plots |
+| **Visualization** | `matplotlib` → actual vs fitted vs forecast plots |
 
 ---
 
@@ -128,23 +128,6 @@ Data showed a clear **52-week seasonal cycle**. Plain ARIMA produced flat foreca
 ### Why Grid Search?
 To avoid manual trial-and-error in selecting `(p, q, P, Q)` parameters, I implemented a systematic **grid search** across all combinations (p, q ∈ [0,1,2] × P, Q ∈ [0,1,2]), selecting the model with the **lowest AIC** for optimal balance between fit and complexity.
 
----
-
-## 🚀 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/pulau-pari-forecasting.git
-cd pulau-pari-forecasting
-
-# Install dependencies
-pip install pandas matplotlib statsmodels scikit-learn
-
-# Launch notebook
-jupyter notebook P1LC5_Zafrirah_Aida.ipynb
-```
-
----
 
 ## 👩‍💻 About
 
