@@ -142,35 +142,10 @@ p-value: 0.9825 > 0.05 → Correlation not significant
 
 ```
 📦 seblak-market-analysis
- ┣ 📓 P1G5_Zafirah_Aida.ipynb            # Main analysis notebook
- ┣ 📄 P0G3_Zafirah_Aida_data_bersih.csv  # Cleaned Tokopedia scrape data
+ ┣ 📓 Business Statistics Analysis.ipynb            # Main analysis notebook
+ ┣ 📄 Raw Data.csv  # Cleaned Tokopedia scrape data
  ┗ 📄 README.md
 ```
-
----
-
-## 🚀 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/seblak-market-analysis.git
-cd seblak-market-analysis
-
-# Install dependencies
-pip install pandas numpy scipy
-
-# Launch notebook
-jupyter notebook P1G5_Zafirah_Aida.ipynb
-```
-
----
-
-## 🔗 Related Projects
-
-| Project | Description |
-|---|---|
-| [Tokopedia Web Scraping](https://github.com/your-username/tokopedia-scraper) | P0GC3 — data collection via web scraping that feeds this analysis |
-| [Pulau Pari Time Series Forecasting](https://github.com/your-username/pulau-pari-forecasting) | SARIMA-based 52-week tourism demand forecast |
 
 ---
 
