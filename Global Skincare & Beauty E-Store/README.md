@@ -164,32 +164,6 @@ p-value      : ~0.00000 (< 0.05) → Reject H₀
  ┣ 📊 Dashboard Tableau                    # Interactive Dashboard
  ┗ 📄 README.md
 ```
-
----
-
-## 🚀 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/global-skincare-ecommerce.git
-cd global-skincare-ecommerce
-
-# Install dependencies
-pip install pandas numpy matplotlib seaborn scipy openpyxl
-
-# Launch notebook
-jupyter notebook P1M2_Zafirah_Aida.ipynb
-```
-
----
-
-## 🔗 Related Projects
-
-| Project | Description |
-|---|---|
-| [Seblak Market Analysis](https://github.com/your-username/seblak-market-analysis) | Tokopedia product analysis using hypothesis testing & confidence intervals |
-| [Pulau Pari Time Series Forecasting](https://github.com/your-username/pulau-pari-forecasting) | SARIMA-based 52-week tourism demand forecast |
-
 ---
 
 ## 👩‍💻 About
